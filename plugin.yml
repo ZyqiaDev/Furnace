@@ -1,0 +1,13 @@
+---
+# Discord: @Zyqia#9178
+name: Furnace
+main: furnace\Main
+author: ZyqiaTheDev
+api: 3.0.0
+version: 1.0.0
+permissions:
+  cook.command:
+    default: op
+  smelt.command:
+    default: op
+...
