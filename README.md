@@ -1,16 +1,16 @@
-#FurnacePlugin
+# FurnacePlugin
 
-#Commands
+# Commands
 * /cook #Cook raw food
 * /smelt #Smelt an ore
 * /furnaceabout #Tells you about the plugin
 
-#Permissions
+# Permissions
 * cook.command
 * smelt.command
 
-#Developers
+# Developers
 * Zyqia
 
-#About
+# About
 * A simple pmmp plugin to smelt ores and cook food
